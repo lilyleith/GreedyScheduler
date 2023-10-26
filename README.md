@@ -1,2 +1,3 @@
-# testRepo
-This is a test repository to get familiar with github
+# GreedyScheduler
+This small python program takes input from the user describing jobs and outputs the optimal number of jobs that can be scheduled. 
+
